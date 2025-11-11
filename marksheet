@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>School marksheet!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+     <table border="1"
+       <tr>
+         <th>Roll.no.</th>
+         <th>Name</th>
+         <th>Marks(out of 50)</th>
+       </tr>
+       <tr>
+        <th>1</th>
+         <th>Aabha Prajapati</th>
+         <th>45</th>
+        </tr>
+        <tr>
+         <th>2</th>
+         <th>Aarju Kasula</th>
+         <th>39</th>
+       </tr>
+        <tr>
+         <th>3</th>
+         <th>Aarohan Karki</th>
+         <th>34</th>
+       </tr>
+        <tr>
+         <th>4</th>
+         <th>Aarohi Ganeju</th>
+         <th>NG</th>
+       </tr>
+       <tr>
+         <th>5</th>
+         <th>Aaditya Dahal</th>
+         <th>24</th>
+       </tr>
+      <tr>
+         <th>6</th>
+         <th>Ajeya Quson Koju</th>
+         <th>49</th>
+       </tr>
+       <tr>
+         <th>7</th>
+         <th>Albish Kharbuja</th>
+         <th>43</th>
+       </tr>
+       <tr>
+         <th>8</th>
+         <th>Angeela Tamang Moktan</th>
+         <th>40</th>
+       </tr>
+       <tr>
+         <th>9</th>
+         <th>Ashna Bhattarai</th>
+         <th>46</th>
+       </tr>
+       <tr>
+         <th>10</th>
+         <th>Ankur Tamang</th>
+         <th>32</th>
+       </tr>
+       <tr>
+         <th>11</th>
+         <th>Arnav Mool</th>
+         <th>34</th>
+       </tr>
+       <tr>
+         <th>12</th>
+         <th>Angela Suwal</th>
+         <th>41</th>
+       </tr>
+       <tr>
+         <th>13</th>
+         <th>Arpan Tamang</th>
+         <th>45</th>
+       </tr>
+     </table>
+  </body>
+</html>
