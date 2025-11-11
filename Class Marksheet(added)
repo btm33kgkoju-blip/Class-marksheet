@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+     
+     <table border="1"
+       <tr>
+         <th>Roll.no.</th>
+         <th>Name</th>
+         <th>Marks(out of 50)</th>
+       </tr>
+       <tr>
+        <th>1</th>
+         <th>Aabha Prajapati</th>
+         <th>45</th>
+        </tr>
+        <tr>
+         <th>2</th>
+         <th>Aarju Kasula</th>
+         <th>39</th>
+       </tr>
+        <tr>
+         <th>3</th>
+         <th>Aarohan Karki</th>
+         <th>34</th>
+       </tr>
+        <tr>
+         <th>4</th>
+         <th>Aarohi Ganeju</th>
+         <th>NG</th>
+       </tr>
+       <tr>
+         <th>5</th>
+         <th>Aaditya Dahal</th>
+         <th>24</th>
+       </tr>
+      <tr>
+         <th>6</th>
+         <th>Ajeya Quson Koju</th>
+         <th>49</th>
+       </tr>
+       <tr>
+         <th>7</th>
+         <th>Albish Kharbuja</th>
+         <th>43</th>
+       </tr>
+       <tr>
+         <th>8</th>
+         <th>Angeela Tamang Moktan</th>
+         <th>40</th>
+       </tr>
+       <tr>
+         <th>9</th>
+         <th>Ashna Bhattarai</th>
+         <th>46</th>
+       </tr>
+       <tr>
+         <th>10</th>
+         <th>Ankur Tamang</th>
+         <th>32</th>
+       </tr>
+       <tr>
+         <th>11</th>
+         <th>Arnav Mool</th>
+         <th>34</th>
+       </tr>
+       <tr>
+         <th>12</th>
+         <th>Angela Suwal</th>
+         <th>41</th>
+       </tr>
+       <tr>
+         <th>13</th>
+         <th>Arpan Tamang</th>
+         <th>45</th>
+       </tr>
+       <tr>
+         <th>14</th>
+         <th>Ashim Yandyo</th>
+         <th>40</th>
+       </tr>
+       <tr>
+         <th>15</th>
+         <th>Binamra Khaitu</th>
+         <th>45</th>
+       </tr>
+       <tr>
+         <th>16</th>
+         <th>Bipana Lamichhane</th>
+         <th>32</th>
+       </tr>
+       <tr>
+         <th>17</th>
+         <th>Diva Datheputhe</th>
+         <th>33</th>
+       </tr>
+       <tr>
+         <th>18</th>
+         <th>Elash Suwal</th>
+         <th>47</th>
+       </tr>
+       <tr>
+         <th>19</th>
+         <th>Elin Suwal</th>
+         <th>21</th>
+       </tr>
+       <tr>
+         <th>20</th>
+         <th>Ivan Suwal</th>
+         <th>NG</th>
+       </tr>
+       <tr>
+         <th>21</th>
+         <th>Harshid Rajak</th>
+         <th>25</th>
+       </tr>
+       <tr>
+         <th>22</th>
+         <th>Jenisk Kharbuja</th>
+         <th>46</th>
+       </tr>
+       <tr>
+         <th>23</th>
+         <th>Layur Moktan</th>
+         <th>35</th>
+       </tr>
+       <tr>
+         <th>24</th>
+         <th>Pradyuman Twati</th>
+         <th>20</th>
+       </tr>
+       <tr>
+         <th>25</th>
+         <th>Pratik Nepal</th>
+         <th>41</th>
+       </tr>
+     </table>
+  </body>
+</html>
